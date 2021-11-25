@@ -1,0 +1,151 @@
+आज U-date
+मौसम O
+कैसा O
+है O
+
+क्या O
+हरिद्वार U-location
+में O
+बहुत O
+ठंड U-weather_type
+है O
+अभी U-date
+
+आज U-date
+इतनी O
+गर्मी U-weather_type
+क्यों O
+है O
+
+क्या O
+मुंबई U-location
+में O
+ठंडी U-weather_type
+है O
+
+क्या O
+पाली U-location
+में O
+सर्दी U-weather_type
+आ O
+गयी O
+
+क्या O
+आज U-date
+बारिश U-weather_type
+हो O
+सकती O
+है O
+
+किदर O
+सबसे O
+ज्यादा O
+बारिश U-weather_type
+होती O
+है O
+
+मुंबई U-location
+में O
+गर्मी U-weather_type
+ज्यादा O
+है O
+क्या O
+सूरत U-location
+से O
+
+मौसम O
+का O
+हाल O
+बताओ O
+
+आज U-date
+ज्यादा O
+ठंड U-weather_type
+है O
+क्या O
+
+मनाली U-location
+में O
+कितनी O
+ठंडी U-weather_type
+है O
+
+कोटा U-location
+ठंडा U-weather_type
+है O
+क्या O
+दिल्ली U-location
+से O
+
+कोटा U-location
+में O
+ज्यादा O
+ठंडी U-weather_type
+है O
+क्या O
+
+पठानकोट U-location
+और O
+दिल्ली U-location
+में O
+कहा O
+ज्यादा O
+गर्मी U-weather_type
+होगी O
+
+दुनिया O
+की O
+सबसे O
+नमी U-weather_type
+वाली O
+जगह O
+
+बनारस U-location
+और O
+गाजीपुर U-location
+में O
+कहां O
+ज्यादा O
+गर्मी U-weather_type
+पड़ेगा O
+
+बनारस U-location
+और O
+गाजीपुर U-location
+में O
+कहां O
+ज्यादा O
+ठंड U-weather_type
+पड़ेगा O
+
+बनारस U-location
+और O
+गाजीपुर U-location
+में O
+कहाँ O
+ज्यादा O
+जाड़ा U-weather_type
+पड़ेगा O
+
+इस B-date
+साल L-date
+जाड़ा U-weather_type
+पड़ेगा O
+की O
+नहीं O
+
+पठानकोट U-location
+और O
+दिल्ली U-location
+में O
+कहा O
+ज्यादा O
+गर्मी U-weather_type
+होगी O
+
+रेणुकूट U-location
+में O
+मौसम O
+कैसा O
+है O
+

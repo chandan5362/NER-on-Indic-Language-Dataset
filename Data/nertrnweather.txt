@@ -1,0 +1,1611 @@
+अरे O
+सारथी O
+जम्मू U-location
+कैसा O
+मौसम O
+है O
+
+अभी U-date
+दिल्ली U-location
+में O
+कैसा O
+मौसम O
+है O
+
+आज U-date
+के O
+लिए O
+मौसम O
+रिपोर्ट O
+बताओ O
+
+दार्जिलिंग U-location
+अभी U-date
+कैसा O
+है O
+
+आज U-date
+हम O
+मौसम O
+के O
+तरीके O
+कैसे O
+हैं O
+
+अभी U-date
+तापमान U-weather_type
+क्या O
+है O
+
+कल U-date
+मौसम O
+के O
+लिए O
+पूर्वानुमान O
+क्या O
+हैं O
+
+मुंबई U-location
+में O
+मौसम O
+कैसा O
+है O
+
+जयपुर U-location
+में O
+मौसम O
+की O
+स्थिति O
+क्या O
+है O
+
+मुंबई U-location
+में O
+मौसम O
+की O
+स्थिति O
+क्या O
+है O
+
+गुजरात U-location
+के O
+मौसम O
+से O
+मुझे O
+अवगत O
+करें O
+
+गोवा U-location
+में O
+मौसम O
+कैसा O
+है O
+
+क्या O
+कल U-date
+अच्छा O
+होगा O
+मौसम O
+
+कल U-date
+का O
+पूर्वानुमान O
+क्या O
+है O
+
+कल U-date
+मौसम O
+कैसा O
+रहने O
+वाला O
+है O
+
+क्या O
+शनिवार U-date
+को O
+मौसम O
+अच्छा O
+होगा O
+
+अगले B-date
+सोमवार L-date
+के O
+लिए O
+पूर्वानुमान O
+क्या O
+है O
+
+अब U-date
+तापमान O
+क्या O
+है O
+
+लिलोन्ग्वे U-location
+में O
+तापमान O
+क्या O
+है O
+
+आज U-date
+ऑक्सफोर्ड U-location
+में O
+मौसम O
+क्या O
+है O
+
+कल U-date
+मुंबई U-location
+में O
+मौसम O
+क्या O
+है O
+
+मुझे O
+बताओ O
+हांगकांग U-location
+में O
+तापमान O
+क्या O
+है O
+
+सिंगापुर U-location
+में O
+अभी U-date
+तापमान O
+क्या O
+है O
+
+सिडनी U-location
+का O
+मौसम O
+
+न्यूयॉर्क U-location
+में O
+आज U-date
+का O
+मौसम O
+
+लंदन U-location
+का O
+तापमान O
+आज U-date
+
+बाहर O
+मौसम O
+क्या O
+है O
+
+मौसम O
+आज U-date
+अच्छा O
+लग O
+रहा O
+है O
+, O
+है O
+ना O
+
+आज U-date
+मौसम O
+पर O
+कोई O
+जांच O
+
+आज U-date
+मौसम O
+का O
+पूर्वानुमान O
+कैसा O
+है O
+
+आज U-date
+का O
+मौसम O
+कैसा O
+रहेगा O
+
+मौसम O
+के O
+बारे O
+में O
+कुछ O
+अच्छा O
+है O
+
+आज U-date
+मौसम O
+का O
+क्या O
+हाल O
+है O
+
+आज U-date
+वेअथेर O
+कैसा O
+है O
+
+शिमला U-location
+में O
+मौसम O
+कैसा O
+रहेगा O
+दिसंबर U-date
+में O
+
+शिमला U-location
+में O
+कितना O
+टेम्प्रेचर U-weather_type
+रहेगा O
+दिसंबर U-date
+में O
+
+इस B-date
+हफ्ते L-date
+मौसम O
+कैसा O
+है O
+मनाली U-location
+में O
+
+आज U-date
+जयपुर U-location
+में O
+कैसा O
+मौसम O
+है O
+
+मौसम O
+कैसा O
+है O
+लोनावाला U-location
+में O
+
+बैंगलोर U-location
+में O
+मौसम O
+की O
+खबर O
+बताओ O
+
+अगले B-date
+महीने L-date
+कैसा O
+रहेगा O
+मौसम O
+दिल्ली U-location
+में O
+
+इस B-date
+हफ्ते L-date
+केसा O
+रहेगा O
+मौसम O
+ऊटी U-location
+में O
+
+गुड़गांव U-location
+का O
+मौसम O
+कैसा O
+चल O
+रहा O
+है O
+
+मसूरी U-location
+का O
+तापमान O
+बताओ O
+
+कसोल U-location
+में O
+क्या O
+तापमान O
+चल O
+रहा O
+है O
+
+मौसम O
+के O
+बारे O
+में O
+क्या O
+
+क्या O
+आज U-date
+दिल्ली U-location
+में O
+वास्तव O
+में O
+गर्मी U-weather_type
+है O
+
+क्या O
+कल B-date
+दोपहर L-date
+में O
+धूप U-weather_type
+आएगी O
+
+आज U-date
+कितना O
+गर्म U-weather_type
+था O
+
+क्या O
+मुझे O
+आज B-date
+दोपहर L-date
+एक O
+टोपी O
+पहननी O
+चाहिए O
+
+ऐसा O
+लगता O
+है O
+कि O
+यह O
+एक O
+गर्म U-weather_type
+दिन O
+होगा O
+, O
+है O
+ना O
+
+क्या O
+दिन O
+चढ़ने O
+के O
+साथ O
+गर्मी U-weather_type
+बढ़ती O
+जायेगी O
+
+आज U-date
+गर्मी U-weather_type
+ज्यादा O
+है O
+क्या O
+
+आज U-date
+काफी O
+गर्मी U-weather_type
+लग O
+रही O
+है O
+
+पिछले B-date
+हफ्ते L-date
+के O
+हिसाब O
+से O
+कितना O
+गर्म U-weather_type
+है O
+ये O
+हफ्ता O
+
+मुंबई U-location
+कितना O
+गर्म U-weather_type
+है O
+अभी O
+
+अगले B-date
+हफ्ते L-date
+कितनी O
+गर्मी U-weather_type
+होगी O
+
+कोलकाता U-location
+में O
+गर्मी U-weather_type
+बढ़ O
+गया O
+है O
+क्या O
+
+मुंबई U-location
+अभी U-date
+कितना O
+गर्म O
+है O
+
+क्या O
+चेन्नई U-location
+में O
+गर्मी U-weather_type
+है O
+
+और O
+कितना O
+गर्मी U-weather_type
+बढ़ेगा O
+दिल्ली U-location
+में O
+
+और O
+कितना O
+गर्मी U-weather_type
+बढ़ेगा O
+हैदराबाद U-location
+में O
+इस O
+हफ्ते O
+
+आज U-date
+इतनी O
+गर्मी U-weather_type
+क्यों O
+लग O
+रही O
+है O
+पटना U-location
+में O
+
+जौनपुर U-location
+में O
+क्या O
+गर्मी U-weather_type
+बढ़ O
+गयी O
+है O
+
+और O
+कितना O
+गर्मी U-weather_type
+बढ़ेगा O
+और O
+यहाँ O
+
+ये O
+अचानक O
+गर्मी U-weather_type
+बढ़ O
+गयी O
+है O
+क्या O
+
+जोधपुर U-location
+में O
+अभी U-date
+कितना O
+गर्म U-weather_type
+है O
+
+क्या O
+कोटा U-location
+में O
+लू B-weather_type
+चल L-weather_type
+रही O
+है O
+
+अभी U-date
+कितनी O
+गर्मी U-weather_type
+है O
+भरुच U-location
+में O
+
+मुंबई U-location
+में O
+अभी U-date
+और O
+कितनी O
+गर्म U-weather_type
+होगी O
+
+और O
+कितना O
+टेम्प्रेचर U-weather_type
+बढ़ेगा O
+कोटा U-location
+का O
+
+इस B-date
+बार L-date
+कितनी O
+गर्मी U-weather_type
+होगी O
+रायपुर U-location
+में O
+
+क्या O
+इस B-date
+बार L-date
+ज्यादा O
+गर्मी U-weather_type
+पड़ेगी O
+सूरत U-location
+में O
+
+रांची U-location
+में O
+इस B-date
+बार L-date
+ज्यादा O
+गर्मी U-weather_type
+है O
+क्या O
+
+क्या O
+कल U-date
+कोलकाता U-location
+में O
+गर्मी U-weather_type
+होगा O
+
+क्या O
+बाद U-date
+में O
+बारिश U-weather_type
+होगी O
+
+क्या O
+मैं O
+घर O
+के O
+रास्ते O
+पर O
+भीगने U-weather_type
+वाला O
+हूं O
+
+क्या O
+मुझे O
+आज B-date
+सुबह L-date
+छतरी U-weather_type
+लेनी O
+चाहिए O
+
+क्या O
+मुझे O
+कल U-date
+छतरी U-weather_type
+की O
+आवश्यकता O
+होगी O
+
+क्या O
+बाद U-date
+में O
+बारिश U-weather_type
+होगी O
+
+क्या O
+आपको O
+लगता O
+है O
+कि O
+कल U-date
+बारिश U-weather_type
+होगी O
+
+क्या O
+खड़गपुर U-location
+में O
+बारिश U-weather_type
+हो O
+रही O
+है O
+
+क्या O
+मुंबई U-location
+में O
+बारिश U-weather_type
+हो O
+रही O
+है O
+
+क्या O
+कल U-date
+दिल्ली U-location
+में O
+बारिश U-weather_type
+हो O
+रही O
+है O
+
+क्या O
+कल U-date
+चेन्नई U-location
+में O
+बारिश U-weather_type
+होगी O
+
+क्या O
+आज U-location
+बारिश U-weather_type
+होगी O
+
+क्या O
+आपको O
+लगता O
+है O
+कि O
+आज B-date
+रात L-date
+बारिश U-weather_type
+होगी O
+
+क्या O
+रात U-date
+भर O
+बारिश U-weather_type
+होगी O
+
+क्या O
+मुझे O
+बिस्तर O
+में O
+जाने O
+से O
+पहले O
+अपने O
+धुले O
+हुए O
+कपडे O
+ले O
+आना O
+चाहिए O
+
+क्या O
+मुझे O
+अपने O
+सुखाये O
+हुए O
+कपडे O
+ले O
+लेने O
+चाहिए O
+
+क्या O
+बिना O
+छतरी U-weather_type
+के O
+रात O
+में O
+यात्रा O
+करना O
+सुरक्षित O
+है O
+
+आज U-date
+बारिश U-weather_type
+होने O
+की O
+क्या O
+संभावना O
+है O
+
+क्या O
+यह O
+मेरे O
+गृह B-location
+नगर L-location
+में O
+बारिश U-weather_type
+हो O
+रही O
+है O
+
+क्या O
+मंगलवार U-date
+को O
+बारिश U-weather_type
+होगी O
+
+क्या O
+मुझे O
+आज U-date
+बारिश U-weather_type
+की O
+उम्मीद O
+करनी O
+चाहिए O
+
+क्या O
+आज U-date
+कोई O
+बारिश U-weather_type
+होगी O
+
+क्या O
+आज U-date
+बारिश U-weather_type
+के O
+आसार O
+है O
+
+मुंबई U-location
+में O
+बारिश U-weather_type
+होगी O
+क्या O
+आज U-date
+
+कब U-date
+तक O
+बारिश U-weather_type
+होगी O
+दिल्ली U-location
+में O
+
+और O
+कितनी O
+बारिश U-weather_type
+होगी O
+यहाँ O
+
+क्या O
+मानसून U-weather_type
+आ O
+गया O
+है O
+
+क्या O
+आज U-date
+बरसात U-weather_type
+होगी O
+
+आज U-date
+बरसात U-weather_type
+की O
+संभावना O
+है O
+क्या O
+
+क्या O
+आज U-date
+बहुत O
+जोर O
+से O
+बारिश U-weather_type
+होगी O
+मुंबई U-date
+में O
+
+क्या O
+आज U-date
+जोरदार O
+बारिश U-weather_type
+होने O
+वाली O
+है O
+नागपुर U-location
+में O
+
+ऋषिकेश U-location
+में O
+क्या O
+बारिश U-weather_type
+हो O
+रही O
+है O
+अभी U-date
+
+बरेली U-location
+में O
+मानसून U-weather_type
+पहुंच O
+गया O
+है O
+क्या O
+
+क्या O
+मानसून U-weather_type
+का O
+आगमन O
+हो O
+चुका O
+है O
+
+ये O
+बारिश U-weather_type
+कब O
+बंद O
+होगी O
+
+क्या O
+ये O
+बारिश U-weather_type
+कल U-date
+तक O
+चलती O
+रहेगी O
+
+क्या O
+इस B-date
+हफ्ते L-date
+बारिश U-weather_type
+होगी O
+
+क्या O
+बेंगलुरु U-location
+में O
+बारिश U-weather_type
+हो O
+रही O
+है O
+
+क्या O
+आज U-date
+बारिश U-weather_type
+रुकेगी O
+या O
+नहीं O
+
+और O
+कितने O
+दिन O
+चलेगी O
+बारिश U-weather_type
+सूरत U-location
+में O
+
+इस B-date
+बार L-date
+बारिश U-weather_type
+कैसी O
+होगी O
+
+बारिश U-weather_type
+कब U-date
+से O
+चालू O
+होगी O
+गोवा U-location
+में O
+
+क्या O
+आज B-date
+शाम L-date
+बारिश U-weather_type
+होगी O
+
+क्या O
+बैंगलोर U-location
+में O
+हिमपात U-weather_type
+हो O
+रहा O
+है O
+
+क्या O
+शिमला U-weather_type
+में O
+बर्फबारी U-weather_type
+शुरू O
+हो O
+गई O
+है O
+
+क्या O
+आज U-date
+हिमाचल U-location
+में O
+बर्फ U-weather_type
+गिरा O
+था O
+
+क्या O
+मनाली U-location
+में O
+बर्फ U-weather_type
+गिर O
+रही O
+है O
+
+क्या O
+शिमला U-location
+में O
+बहुत O
+बर्फ U-weather_type
+गिर O
+रही O
+है O
+
+क्या O
+बर्फ U-weather_type
+बरी O
+चालू O
+है O
+मनाली U-location
+में O
+
+कितनी O
+बर्फ U-weather_type
+गिर O
+रही O
+है O
+कसोल U-location
+में O
+
+बर्फ U-weather_type
+कब U-date
+तक O
+गिर O
+सकती O
+है O
+त्रिउंड U-location
+में O
+
+नैनीताल U-location
+में O
+बर्फ U-weather_type
+गिरेगी O
+क्या O
+इस B-date
+बार L-date
+
+कितनी O
+ठंडा U-weather_type
+है O
+लेह O
+इस B-date
+बार L-date
+
+इस B-date
+बार L-date
+ठंड U-weather_type
+कैसी O
+है O
+लोनावाला U-location
+में O
+
+मसूरी U-location
+क्या O
+बर्फ U-weather_type
+बरी O
+है O
+इस B-date
+बार L-date
+
+चंबा U-location
+में O
+क्या O
+इस B-date
+बार L-date
+ठंड U-weather_type
+ज्यादा O
+है O
+
+ठंडी U-weather_type
+कब O
+से O
+चालू O
+होगी O
+बार O
+
+सर्दी U-weather_type
+कब O
+से O
+चालू O
+होगी O
+इस B-date
+बार L-date
+
+सर्दी U-weather_type
+कैसी O
+है O
+कुल्लू U-location
+में O
+इस B-date
+बार L-date
+
+मौसम O
+कितना O
+ठंडा U-weather_type
+है O
+इस B-date
+बार L-date
+तवांग U-location
+में O
+
+क्या O
+बर्फबारी U-weather_type
+है O
+शिलॉन्ग U-location
+में O
+इस B-date
+हफ्ते L-date
+
+कितना O
+ठंडा U-weather_type
+है O
+गंगटोक U-location
+
+लेह U-location
+कितना O
+ठंडा U-weather_type
+है O
+अभी U-date
+
+कितनी O
+ठंडी U-weather_type
+चल O
+रही O
+है O
+श्रीनगर U-location
+में O
+
+जम्मू U-location
+में O
+बर्फबारी U-weather_type
+चालू O
+है O
+क्या O
+
+ठंड U-weather_type
+कैसी O
+है O
+इस B-date
+बार L-date
+पठानकोट U-location
+में O
+
+और O
+कब O
+तक O
+बर्फबारी U-weather_type
+होगी O
+मनाली U-location
+में O
+
+दिसंबर U-date
+में O
+बर्फ U-weather_type
+होगी O
+इस O
+बार O
+खजियार U-location
+में O
+
+कितना O
+ठंडा U-weather_type
+होगा O
+नैनीताल U-location
+नवंबर U-date
+में O
+
+कल U-date
+ऋषिकेश U-location
+में O
+बर्फ U-weather_type
+होगी O
+
+अप्रैल U-date
+में O
+बर्फ U-weather_type
+गिर O
+सकती O
+है O
+क्या O
+शिमला U-location
+में O
+
+क्या O
+मनाली U-location
+की O
+तुलना O
+में O
+शिमला U-location
+ठंडी U-weather_type
+है O
+
+कौन O
+अधिक O
+ठंडा U-weather_type
+है O
+, O
+कसोल U-location
+या O
+गंगटोक U-location
+
+जम्मू U-location
+में O
+मौसम O
+अपेक्षाकृत O
+कैसा O
+है O
+
+दीव U-location
+और O
+अहमदाबाद U-location
+में O
+मौसम O
+की O
+स्थिति O
+की O
+तुलना O
+करें O
+
+क्या O
+आज U-date
+लंदन U-location
+ज्यादा O
+गर्म U-weather_type
+है O
+
+मुंबई U-location
+या O
+चेन्नई U-location
+में O
+आज U-date
+ज्यादा O
+गर्म U-weather_type
+
+क्या O
+आज U-date
+न्यूयॉर्क U-location
+में O
+ठंडा U-weather_type
+है O
+कैलिफ़ोर्निया U-location
+से O
+
+क्या O
+आम O
+तौर O
+पर O
+बैंगलोर U-location
+हैदराबाद U-location
+से O
+ज्यादा O
+ठंडा U-weather_type
+होता O
+है O
+
+क्या O
+कल U-date
+की O
+तुलना O
+में O
+आज U-date
+बंगलौर U-location
+गर्म U-weather_type
+है O
+
+क्या O
+मुंबई U-location
+ज्यादा O
+गर्म U-weather_type
+है O
+कोलकाता U-location
+से O
+
+बैंगलोर U-location
+ठंडा U-weather_type
+है O
+क्या O
+गुड़गांव U-location
+से O
+
+बैंगलोर U-location
+में O
+ज्यादा O
+ठंडी U-weather_type
+होगी O
+या O
+हैदराबाद U-location
+में O
+
+कोटा U-location
+में O
+कितना O
+गर्म U-weather_type
+है O
+मुंबई U-location
+से O
+अभी U-date
+
+जौनपुर U-location
+कितना O
+ज्यादा O
+गर्म U-weather_type
+है O
+अभी U-date
+सूरत U-location
+से O
+
+मनाली U-location
+में O
+ठंडी U-weather_type
+ज्यादा O
+होती O
+है O
+क्या O
+कुल्लू U-location
+से O
+
+क्या O
+ऊटी U-location
+में O
+ज्यादा O
+गर्मी U-weather_type
+होगी O
+हुगली U-location
+से O
+
+ज्यादा O
+ठंड U-weather_type
+कहां O
+है O
+जम्मू U-location
+में O
+या O
+लेह U-location
+में O
+
+श्रीनगर U-location
+ज्यादा O
+ठंडा U-weather_type
+है O
+गंगटोक U-location
+
+किधर O
+ज्यादा O
+ठंडी O
+होगी O
+कसोल U-location
+या O
+मनाली U-location
+
+कौन O
+सी O
+जगह O
+अधिक O
+गर्म U-weather_type
+है O
+वापी U-location
+या O
+मुंबई U-location
+
+कोलकाता U-location
+से O
+मुंबई U-location
+कितना O
+गर्म U-weather_type
+है O
+
+पालनपुर U-location
+कितना O
+ठंडा U-weather_type
+है O
+पटना U-location
+है O
+
+ये O
+दिल्ली U-location
+ठंडा U-weather_type
+है O
+क्या O
+गंगटोक U-location
+से O
+
+कितना O
+डिग्री O
+फर्क O
+है O
+बेंगलुरु U-location
+और O
+मुंबई U-location
+में O
+
+पटना U-location
+कितना O
+डिग्री O
+ज्यादा O
+ठंडा U-location
+है O
+सूरत U-location
+से O
+
+कितना O
+ज्यादा O
+डिफरेंस O
+है O
+मुंबई U-location
+और O
+बैंगलोर U-location
+के O
+मौसम O
+में O
+
+दिल्ली U-location
+और O
+कोलकाता U-location
+के O
+मौसम O
+में O
+कितना O
+फर्क O
+है O
+
+क्या O
+बाली U-location
+में O
+ज्यादा O
+ठण्ड U-weather_type
+होगी O
+मॉरीशस U-location
+से O
+
+कितना O
+अधिक O
+ठंडा U-weather_type
+है O
+लाहौर U-location
+मनाली U-location
+से O
+
+कहा O
+मौसम O
+अच्छा O
+है O
+बेंगलोरे U-location
+या O
+गुड़गांव U-location
+
+हमीरपुर U-location
+गरम U-weather_type
+है O
+क्या O
+नागपुर U-location
+से O
+
+क्या O
+कल U-date
+की O
+तुलना O
+में O
+आज U-date
+ज्यादा O
+गर्मी U-weather_type
+है O
+
+आज U-date
+ज्यादा O
+गर्मी U-weather_type
+है O
+क्या O
+कल U-date
+से O
+
+क्या O
+कल U-date
+ज्यादा O
+बारिश U-weather_type
+होगी O
+आज U-date
+से O
+भी O
+
+क्या O
+मुंबई U-location
+में O
+ज्यादा O
+गर्मी U-weather_type
+होगी O
+कल U-date
+आज U-date
+से O
+भी O
+
+क्या O
+बैंगलोर U-location
+में O
+कल U-date
+आज U-date
+से O
+ज्यादा O
+बारिश U-weather_type
+होगी O
+
+क्या O
+कल U-date
+ज्यादा O
+गर्म U-weather_type
+होगा O
+दिल्ली U-location
+में O
+आज O
+से O
+
+क्या O
+कल U-date
+भी O
+काफी O
+बारिश U-weather_type
+होगी O
+आज U-date
+के O
+जैसे O
+
+क्या O
+कल U-date
+ज्यादा O
+गर्मी U-weather_type
+होगी O
+आज U-date
+से O
+
+कुल्लू U-location
+में O
+ज्यादा O
+अच्छा O
+मौसम O
+है O
+क्या O
+मनाली U-location
+से O
+
+क्या O
+कोलकाता U-location
+में O
+इस B-date
+वर्ष L-date
+के O
+ग्रीष्मकाल O
+पिछले B-date
+साल L-date
+के O
+गर्मियों O
+की O
+तुलना O
+में O
+गर्म U-weather_type
+है O
+
+एम्स्टर्डम U-location
+कैसा O
+है O
+बाली U-location
+से O
+मौसम O
+के O
+हिसाब O
+से O
+
+पृथ्वी U-location
+पर O
+सबसे O
+गर्म U-weather_type
+जगह O
+कौन O
+सा O
+है O
+
+धरती U-location
+पर O
+सबसे O
+ठंडी U-weather_type
+जगह O
+कहां O
+है O
+
+पृथ्वी U-location
+पर O
+सबसे O
+ज्यादा O
+गीला U-weather_type
+जगह O
+कहां O
+है O
+
+जून U-date
+में O
+सबसे O
+ठंडी U-weather_type
+जगह O
+कहां O
+है O
+
+गर्मियों U-date
+में O
+सबसे O
+गर्म U-weather_type
+जगह O
+कहां O
+है O
+
+सबसे O
+ज्यादा O
+ठण्ड U-weather_type
+कहा O
+होती O
+है O
+इंडिया U-location
+में O
+
+इंडिया U-location
+में O
+सबसे O
+ज्यादा O
+बारिश U-weather_type
+कहा O
+होती O
+है O
+
+सबसे O
+ज्यादा O
+धूप U-weather_type
+कहाँ O
+होती O
+है O
+इंडिया U-location
+में O
+
+भारत U-location
+में O
+सबसे O
+ज्यादा O
+गर्म U-weather_type
+शहर O
+कौनसा O
+है O
+
+भारत U-location
+में O
+सबसे O
+ज्यादा O
+ठंडा U-weather_type
+शहर O
+कौनसा O
+है O
+
+इंडिया U-location
+में O
+सबसे O
+ज्यादा O
+गर्मी U-weather_type
+कहाँ O
+होती O
+है O
+
+इंडिया U-location
+में O
+सबसे O
+ज्यादा O
+ठंड U-weather_type
+कहां O
+होती O
+है O
+
+सबसे O
+ठंडी U-weather_type
+जगह O
+कौनसी O
+है O
+दुनिया U-location
+में O
+
+दुनिया U-location
+में O
+सबसे O
+ज्यादा O
+गर्मी U-weather_type
+कहा O
+होती O
+है O
+
+इंडिया U-location
+में O
+सबसे O
+ज्यादा O
+बारिश U-weather_type
+कहा O
+होती O
+है O
+
+आर्द्रता U-weather_type
+की O
+स्थिति O
+क्या O
+है O
+? O
+
